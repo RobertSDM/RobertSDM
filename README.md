@@ -9,6 +9,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0UwCF_o_Dmq3pcQwVPAcHquwJckGUFKydbA&usqp=CAU" style="width: 50px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width:50px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" style="width:50px;">
+    <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" style="width:35px;">
 </section>
 <br>
 <div>

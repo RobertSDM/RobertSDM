@@ -1,6 +1,5 @@
 <h1>I'am Roberto Menezes, hello 👋</h1>
 
-- I'm 19 years old.
 - Currently, I'm in the second semester in Analysis and Systems Development. 
 
 <br>

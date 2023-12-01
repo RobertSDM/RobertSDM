@@ -1,7 +1,8 @@
-<h1>I'am Roberto Menezes, hello 👋</h1>
+<h1>Welcome 👋</h1>
 
-- Currently, I'm in the second semester in Analysis and Systems Development. 
-
+- My name is Roberto Menezes, crrently I'm studying for my degree in Analysis and Systems Development.
+- I'm a developer fullstack, because I like both words. I've always been facinated about learning how things work behind the scenes.
+  
 <br>
 <section style="display: flex;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" style="width:50px;">

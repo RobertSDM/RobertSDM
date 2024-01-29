@@ -1,6 +1,6 @@
 <h1>Welcome 👋</h1>
 
-- My name is Roberto Menezes, crrently I'm studying for my degree in Analysis and Systems Development.
+- My name is Roberto Menezes, currently I'm studying for my degree in Analysis and Systems Development at FIAP.
   
 <br>
 <section style="display: flex;">

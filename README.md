@@ -1,7 +1,6 @@
 <h1>Welcome 👋</h1>
 
 - My name is Roberto Menezes, crrently I'm studying for my degree in Analysis and Systems Development.
-- I'm a developer fullstack, because I like both words. I've always been facinated about learning how things work behind the scenes.
   
 <br>
 <section style="display: flex;">

@@ -1,8 +1,3 @@
-<h1>Welcome 👋</h1>
-
-- My name is Roberto Menezes, currently I'm studying for my degree in Analysis and Systems Development at FIAP.
-  
-<br>
 <section style="display: flex;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" style="width:50px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0UwCF_o_Dmq3pcQwVPAcHquwJckGUFKydbA&usqp=CAU" style="width: 50px;">
